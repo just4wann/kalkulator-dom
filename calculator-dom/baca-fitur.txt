@@ -1,0 +1,4 @@
+Simple Fitur :
+1. Responsive,
+2. Warning PopUp jika salah satu atau kedua input belum diisi, dan
+3. Reset button.
